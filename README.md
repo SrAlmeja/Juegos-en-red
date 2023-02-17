@@ -4,7 +4,6 @@
 Mi nombre es **Angel Gabriel Legorreta González** tengo **23 años** de edad y yo soy ese de abajo.
 
 ![este soy yo](https://cdn.discordapp.com/attachments/978318986154487878/1075902269146529932/678B7750-279B-45A3-9A32-999AD9FF29D7.jpg)
-> Probablemente esta imagen se rompa, asi que la subire a la carpeta aparte.
 
 ### ¿Qué soy?
 Actualmente estudio 3 carreras y un taller extra asi que si me buscan estare o muerto o ocupado :c.
