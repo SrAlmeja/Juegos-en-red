@@ -11,6 +11,9 @@ En esta materia hemos repasado comandos que nos facilitaran el trabajo en la ter
 Aquí estamos aprendiendo de shaders, vimos algunos conceptos basicos, pero en las ultimas clases nos estuvimos enfocando en la configuración correcta para poder empezar a escribirlos.
 
 ## **producción Músical**
+**- Profesora:** Ana Laura Hernandez\
+En esta materia estamos viendo fundamentos básicos de musica, hemos visto un poco lo que es ritmos, el significado del arte, compases y escalas.
+
 ## **Diseño de Niveles y Mecánicas**
 ## **Proyecto Semestral**
 
