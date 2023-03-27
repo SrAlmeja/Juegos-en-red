@@ -44,7 +44,7 @@
 
 ### **generos (EC)**
 * genero_id(PK)
-* nombre
+* tipo
 
 ### **generos_X_Juego (EP)**
 * gxj_id (PK)
