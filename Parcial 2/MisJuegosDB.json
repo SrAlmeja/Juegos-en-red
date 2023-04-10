@@ -1,0 +1,111 @@
+﻿{
+  "videojuegos": [
+    {
+      "Videojuego_id": ["1"],
+      "titulo": "LEGO STAR WARS THE COMPLETE SAHA",
+      "formato": "3",
+      "estado": "1",
+      "franquicia": "Lego",
+      "fecha": "2007",
+      "plataforma_actual": ["5"],
+      "desarrolladora": "Lucas arts",
+      "idioma": ["Ingles"],
+      "pais": "Estados Unidos",
+      "portada": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Fgames%2Flego-star-wars-the-complete-saga&psig=AOvVaw2HjJOg6g9gtDL8eL0CHF6X&ust=1681253818792000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjO7Ne0oP4CFQAAAAAdAAAAABAD"],
+      "trailer": ["https://www.youtube.com/watch?v=NkabLvecF-E"]
+    }
+  ],
+  
+  "formato":[
+    {
+      "Formato_id": "",
+      "tipo": [""]
+    }
+  ],
+  
+  "estado":[
+    {
+      "estado_id": "",
+      "tipo": [""]
+    }
+  ],
+
+  "franquicias": [
+    {
+      "franquicia_id": "",
+      "nombre": "",
+      "juego_id": [""],
+      "numero": "",
+      "numero_obtenido": "",
+      "año_de_estreno": "",
+      "desarrollador": ""
+    }
+  ],
+
+  "desarrolladora":[
+    {
+      "desarrolladora_id": "",
+      "nombre": [""]
+    }
+  ],
+
+  "desarrolladora_X_juego":[
+    {
+      "dcj_id": "",
+      "desarrolladora_id": "",
+      "juego_id": [""] 
+    }
+  ],
+
+  "generos":[
+    {
+      "genero_id": "",
+      "nombre": [""]
+    }
+  ],
+
+  "generos_X_juego":[
+    {
+      "gxj_id": "",
+      "juego_id": "",
+      "genero_id": [""]
+    }
+  ],
+
+  "consolas":[
+    {
+      "consola_id": "",
+      "nombre": [""]
+    }
+  ],
+
+  "plataforma_actual":[
+    {
+      "pa_id": "",
+      "consola_id": [""],
+      "genero_id": [""]
+    }
+  ],
+
+  "idiomas":[
+    {
+      "idioma_id": "",
+      "nombre": [""]
+    }
+  ],
+
+  "idiomas_X_juego":[
+    {
+      "ixj_id": "",
+      "juego_id": [""],
+      "idioma_id": [""]
+    }
+  ],
+
+  "idiomas":[
+    {
+      "pais_id": "",
+      "nombre": [""]
+    }
+  ]
+}
