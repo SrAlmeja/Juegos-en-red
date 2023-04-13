@@ -13,99 +13,334 @@
       "pais": "Estados Unidos",
       "portada": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Fgames%2Flego-star-wars-the-complete-saga&psig=AOvVaw2HjJOg6g9gtDL8eL0CHF6X&ust=1681253818792000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjO7Ne0oP4CFQAAAAAdAAAAABAD"],
       "trailer": ["https://www.youtube.com/watch?v=NkabLvecF-E"]
-    }
+    },
+    {
+      "Videojuego_id": ["2"],
+      "titulo":"NEW SUPER MARIO BROS",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Mario Bros",
+      "fecha":"2006",
+      "plataforma_actual":"5",
+      "desarrolladora":"Nintendo",
+      "idioma":"Ingles","pais":"Japon",
+      "portada":"https://m.media-amazon.com/images/I/51BW6MGMY3L._AC_.jpg",
+      "trailer":"https://www.youtube.com/watch?v=Zy41U69D6Lc"},
+    {
+      "Videojuego_id": ["3"],
+      "titulo":"LEGO INDIANA JONES THE ORIGINAL ADVENTURES",
+      "formato":"3",
+      "estado":"1",
+      "franquicia":"Lego",
+      "fecha":"2008",
+      "plataforma_actual":"5",
+      "desarrolladora":"Lucas arts",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Flegogames.fandom.com%2Fwiki%2FLEGO_Indiana_Jones%3A_The_Original_Adventures&psig=AOvVaw3oYQhIKr5LRpGS3hG7QGLJ&ust=1681460166003000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDomvGnpv4CFQAAAAAdAAAAABAK",
+      "trailer":"https://www.youtube.com/watch?v=Qix-A8GNPfA"},
+    {
+      "Videojuego_id": ["4"],
+      "titulo":"James Cameron's AVATAR THE GAME",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Avatar",
+      "fecha":"2009",
+      "plataforma_actual":"5",
+      "desarrolladora":"Ubisoft",
+      "idioma":"Ingles",
+      "pais":"Canada",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FJames-Camerons-Avatar-Game-Nintendo-DS%2Fdp%2FB002HHM11A&psig=AOvVaw1nZqK4n_RiNP_zygPpEhdn&ust=1681460308835000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMD8orWopv4CFQAAAAAdAAAAABAJ",
+      "trailer":"NA"},
+    {
+      "Videojuego_id": ["5"],
+      "titulo":"MY ENGLISH COACH Para Hispanoparlantes",
+      "formato":"1",
+      "estado":"2",
+      "franquicia":"",
+      "fecha":"2009",
+      "plataforma_actual":"5",
+      "desarrolladora":"Ubisoft",
+      "idioma":"Ingles/latino",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FMy-English-Coach-Spanish-Edition-Nla%2Fdp%2FB001KL3GVS&psig=AOvVaw3sD63yoNPlNZMAjGBSgWcN&ust=1681460460066000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDKwP2opv4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=8LPVDfXQ_9g"},
+    {
+      "Videojuego_id": ["6"],
+      "titulo":"SONIC GENERATIONS",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Sonic",
+      "fecha":"2011",
+      "plataforma_actual":"6",
+      "desarrolladora":"SEGA",
+      "idioma":"Ingles",
+      "pais":"japon",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hobbyconsolas.com%2Fvideojuegos%2Fsonic-generations&psig=AOvVaw1aRqoVy0yIZTk7b2l9Ei6M&ust=1681460602755000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDPzcGppv4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=gb9RQwlNRy8"},
+    {
+      "Videojuego_id": ["7"],
+      "titulo":"LEGO INDIANA JONES 2 THE ADVENTURE CONTINUES",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Lego",
+      "fecha":"2009",
+      "plataforma_actual":"5",
+      "desarrolladora":"Lucas arts",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eneba.com%2Flatam%2Fsteam-lego-indiana-jones-2-the-adventure-continues-steam-key-global&psig=AOvVaw2KQfBlscb9PGRBBgJL_pk3&ust=1681485225445000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDW1p6Fp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=RoX4LnZaZD8"},
+    {
+      "Videojuego_id": ["8"],
+      "titulo":"TRANSFORMERS DARK OF THE MOON STEALTH FORCE EDITION",
+      "formato":"1",
+      "estado":"2",
+      "franquicia":"Transformers",
+      "fecha":"2011",
+      "plataforma_actual":"6",
+      "desarrolladora":"ACTIVISION",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FTransformers-Dark-Moon-Nintendo-Stealth-Force%2Fdp%2FB004N7F9SY&psig=AOvVaw2qwr7DIQSq_14wCZ5DMRw8&ust=1681485530686000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODGl7CGp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=dokwnQ7hOxs"},
+    {
+      "Videojuego_id": ["9"],
+      "titulo":"PLANTS VS ZOMBIES",
+      "formato":"3",
+      "estado":"1",
+      "franquicia":"Plants Vs. Zombies",
+      "fecha":"2009",
+      "plataforma_actual":"5",
+      "desarrolladora":"CapCom",
+      "idioma":"Ingles",
+      "pais":"Canada",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FPlants-Vs-Zombies-Game-Nintendo%2Fdp%2FB00407F2BQ&psig=AOvVaw2DxyOzi-jtOp7HHo_gYmpc&ust=1681485589248000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCymMyGp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=x0dIYeFlHkc"},
+    {
+      "Videojuego_id": ["10"],
+      "titulo":"SONIC RUSH ADVENTURE",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"sonic",
+      "fecha":"2007",
+      "plataforma_actual":"5",
+      "desarrolladora":"SEGA",
+      "idioma":"Ingles",
+      "pais":"Japon",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FSonic-Rush-Adventure-Nintendo-DS%2Fdp%2FB000RE50FO&psig=AOvVaw1paozI-C1Sk0SnmOX-aOBg&ust=1681487145829000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi2rLKMp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=J4pG23S8kbA"},
+    {
+      "Videojuego_id": ["11"],
+      "titulo":"FANTASTIC FOUR RISE OF THE SILVER SURFER",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Fantastic Four",
+      "fecha":"2007",
+      "plataforma_actual":"5",
+      "desarrolladora":"2K",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FFantastic-Four-Rise-Silver-Surfer%2Fdp%2FB000MK6X5O&psig=AOvVaw1NXcJIy8H881KFwxroKC5u&ust=1681487279229000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODSkfKMp_4CFQAAAAAdAAAAABAE",
+      "trailer":"NA"},
+    {
+      "Videojuego_id": ["12"],
+      "titulo":"BRAIN AGE Train your Brain in Minutes a Day",
+      "formato":"1",
+      "estado":"2",
+      "franquicia":"",
+      "fecha":"2005",
+      "plataforma_actual":"5",
+      "desarrolladora":"TOUCH GENERATIONS",
+      "idioma":"Ingles",
+      "pais":"Japon",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrain_Age%3A_Train_Your_Brain_in_Minutes_a_Day!&psig=AOvVaw15pQMKD0O0aHBl4DFJGLez&ust=1681487409781000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCbpbCNp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=FbJMTtCV0Ds"},
+    {
+      "Videojuego_id": ["13"],
+      "titulo":"MARIO KARD DS",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Mario Bros",
+      "fecha":"2005",
+      "plataforma_actual":"5",
+      "desarrolladora":"Nintendo",
+      "idioma":"Ingles",
+      "pais":"Japon",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FNintendo-Mario-Kart-DS-Racing%2Fdp%2FB000BFIASS&psig=AOvVaw0ZMhOngbTKP37Abof_vDRB&ust=1681487482052000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDp_NWNp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=3Bx9WtQ5EMg"},
+    {
+      "Videojuego_id": ["14"],
+      "titulo":"TRANSFORMERS AUTOBOTS",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Transformers",
+      "fecha":"2007",
+      "plataforma_actual":"5",
+      "desarrolladora":"ACTIVISION",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FTransformers-Autobots-Nintendo-DS%2Fdp%2FB000NJIV7W&psig=AOvVaw1VRMq5AlaR9vGHf_V0gHYJ&ust=1681488205212000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDR6quQp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=bSmrEfyzWEM"},
+    {
+      "Videojuego_id": ["15"],
+      "titulo":"TRANSFORMERS DECEPTICONS",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Transformers",
+      "fecha":"2007",
+      "plataforma_actual":"5",
+      "desarrolladora":"ACTIVISION",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://m.media-amazon.com/images/I/51Wv0LkKIWL.jpg",
+      "trailer":"https://www.youtube.com/watch?v=bSmrEfyzWEM"},
+    {
+      "Videojuego_id": ["16"],
+      "titulo":"STAR WARS THE CLONE WARS JEDI ALLIANCE",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Star Wars",
+      "fecha":"2008",
+      "plataforma_actual":"5",
+      "desarrolladora":"Lucas arts",
+      "idioma":"Castellano",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FStar-Wars-Clone-Jedi-Alliance-Nintendo%2Fdp%2FB001BWRBAS&psig=AOvVaw1tcF54H0VK8TTgy32WVEfe&ust=1681488322408000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjRsuOQp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=ZPGXKAeDuSY"},
+    {
+      "Videojuego_id": ["17"],
+      "titulo":"LEGO BATTLES",
+      "formato":"1",
+      "estado":"1",
+      "franquicia":"Lego",
+      "fecha":"2009",
+      "plataforma_actual":"5",
+      "desarrolladora":"Warner Bros INTERACTIVE ENTERTRAIMENT",
+      "idioma":"Ingles",
+      "pais":"Estados Unidos",
+      "portada":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FLego-Battles-Nintendo-DS%2Fdp%2FB001QRJ7VY&psig=AOvVaw1W53kuGLUuxFIYLuCeCu8r&ust=1681488409085000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDC5YyRp_4CFQAAAAAdAAAAABAE",
+      "trailer":"https://www.youtube.com/watch?v=rGVvTqPYEYw"}
   ],
   
   "formato":[
     {
-      "Formato_id": "",
-      "tipo": [""]
+      "Formato_id": "1",
+      "tipo": ["digital"]
+    },
+    {
+      "Formato_id": "2",
+      "tipo": ["fisico"]
+    },
+    {
+      "Formato_id": "3",
+      "tipo": ["ambos"]
     }
   ],
   
   "estado":[
     {
-      "estado_id": "",
-      "tipo": [""]
+      "estado_id": "1",
+      "tipo": ["completado"]
+    },
+    {
+      "estado_id": "2",
+      "tipo": ["jugado"]
+    },{
+      "estado_id": "3",
+      "tipo": ["pendiente"]
     }
   ],
 
   "franquicias": [
     {
-      "franquicia_id": "",
-      "nombre": "",
-      "juego_id": [""],
-      "numero": "",
-      "numero_obtenido": "",
-      "año_de_estreno": "",
-      "desarrollador": ""
+      "franquicia_id": "0",
+      "nombre": "NA",
+      "juego_id": ["5", "12"],
+      "numero": "0",
+      "numero_obtenido": "2",
+      "año_de_estreno": "NA",
+      "desarrollador": "NA"
+    },
+    {
+      "franquicia_id": "1",
+      "nombre": "lego",
+      "juego_id": ["1", "3", "7", "17"],
+      "numero": "85",
+      "numero_obtenido": "4",
+      "año_de_estreno": "1995",
+      "desarrollador": "Travellers Tales"
+    },
+    {
+      "franquicia_id": "2",
+      "nombre": "mario bros",
+      "juego_id": ["2", "13"],
+      "numero": "167",
+      "numero_obtenido": "2",
+      "año_de_estreno": "1981",
+      "desarrollador": "Nintendo"
+    },
+    {
+      "franquicia_id": "3",
+      "nombre": "sonic",
+      "juego_id": ["6", "10"],
+      "numero": "32",
+      "numero_obtenido": "2",
+      "año_de_estreno": "1991",
+      "desarrollador": "sega"
     }
   ],
 
   "desarrolladora":[
     {
-      "desarrolladora_id": "",
-      "nombre": [""]
-    }
-  ],
-
-  "desarrolladora_X_juego":[
+      "desarrolladora_id": "1",
+      "nombre": ["ubisoft"]
+    },
     {
-      "dcj_id": "",
-      "desarrolladora_id": "",
-      "juego_id": [""] 
-    }
-  ],
-
-  "generos":[
+      "desarrolladora_id": "2",
+      "nombre": ["capcom"]
+    },
     {
-      "genero_id": "",
-      "nombre": [""]
-    }
-  ],
-
-  "generos_X_juego":[
+      "desarrolladora_id": "3",
+      "nombre": ["sega"]
+    },
     {
-      "gxj_id": "",
-      "juego_id": "",
-      "genero_id": [""]
-    }
-  ],
-
-  "consolas":[
+      "desarrolladora_id": "4",
+      "nombre": ["2k"]
+    },
     {
-      "consola_id": "",
-      "nombre": [""]
+      "desarrolladora_id": "5",
+      "nombre": ["Touch Generation"]
+    },
+    {
+      "desarrolladora_id": "6",
+      "nombre": ["Nintendo"]
+    },
+    {
+      "desarrolladora_id": "7",
+      "nombre": ["Activision"]
+    },
+    {
+      "desarrolladora_id": "8",
+      "nombre": ["lucasArts"]
+    },
+    {
+      "desarrolladora_id": "9",
+      "nombre": ["wb Interactive Entertainment"]
     }
   ],
+  
 
   "plataforma_actual":[
     {
-      "pa_id": "",
-      "consola_id": [""],
-      "genero_id": [""]
-    }
-  ],
-
-  "idiomas":[
+      "pa_id": "5",
+      "consola_id": ["nintendo ds"],
+    },
     {
-      "idioma_id": "",
-      "nombre": [""]
-    }
-  ],
-
-  "idiomas_X_juego":[
-    {
-      "ixj_id": "",
-      "juego_id": [""],
-      "idioma_id": [""]
-    }
-  ],
-
-  "idiomas":[
-    {
-      "pais_id": "",
-      "nombre": [""]
+      "pa_id": "6",
+      "consola_id": ["nintendo 3d"]
     }
   ]
 }
+
+
